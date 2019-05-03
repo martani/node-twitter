@@ -1,6 +1,6 @@
 {
   "name": "twitter",
-  "version": "1.7.1",
+  "version": "9.9.9",
   "description": "Twitter API client library for node.js",
   "license": "MIT",
   "keywords": [
